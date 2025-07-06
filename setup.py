@@ -5,7 +5,7 @@ Setup script for the TradingAgents package.
 from setuptools import setup, find_packages
 
 setup(
-    name="tradingagents yes",
+    name="tradingagents",
     version="0.1.0",
     description="Multi-Agents LLM Financial Trading Framework",
     author="TradingAgents Team",
